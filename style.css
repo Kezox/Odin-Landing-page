@@ -125,3 +125,20 @@ img {
 .kirby {
     max-width: 150px;
 }
+/* quote part*/
+.quoteholder {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-family: 'light italic';
+    color: #1F2937;
+    padding: 140px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.name {
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+}
