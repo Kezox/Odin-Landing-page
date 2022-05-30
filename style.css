@@ -142,3 +142,44 @@ img {
     display: flex;
     justify-content: flex-end;
 }
+/* blue button call to action */
+.blue {
+    background-color: #3882F6;
+    margin: 40px;
+    border-radius: 10px;
+    height: 100px;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-content: center;
+    padding-top: 40px;
+   
+}
+
+.lefttitle {
+    font-weight: bold;
+    font-size: 24px;
+
+}
+
+
+.signup {
+    padding: 10px 40px;
+    margin-left: 80px;
+    background-color: #3882F6;
+    border-radius: 5px;
+    border: solid white 2px;
+    color: white;
+    font-weight: 900;
+
+}
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    color: white;
+    
+}
