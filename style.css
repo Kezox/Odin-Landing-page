@@ -33,3 +33,95 @@ ul {
     list-style-type: none;
     
 }
+/*below header */
+
+.belowheader {
+    display: flex;
+    background-color: #1f2937;
+    padding: 70px;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.title {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+    display: flex;
+    flex-wrap: wrap;
+    flex-shrink: 1;
+}
+
+.text {
+    display: flex;
+    font-size: 18px;
+    color: #E5E7EB;
+    flex-wrap: wrap;
+}
+.unique {
+    width: 500px;
+    height: 250px;
+   
+}
+
+.btnholder {
+    padding-top: 15px;
+}
+.btn {
+    border-radius: 8px;
+    border: solid #3882F6 1px;
+    background-color: #3882F6;
+    color: white;
+    font-weight: bold;
+    padding: 8px 35px;
+    font-size: 16px;
+
+   
+    
+}
+
+.leftbelow {
+    padding-left: 130px;
+   
+    
+}
+
+.rightbelow {
+    padding-right: 130px;
+    margin-left: 50px;
+}
+/* kirby pictures part*/
+.titleinfo {
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    margin-bottom: 32px;
+    margin-top: 32px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    gap: 40px;
+    padding: 36px;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.kirby {
+    max-width: 150px;
+}
