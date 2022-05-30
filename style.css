@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    font-family:'Gill Sans', 'Gill Sans MT', sans-serif;
+    flex-direction: column;
+}
+/*for header*/
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1f2937;
+    color: white;
+    padding: 18px;
+    align-items: center;
+}
+.left {
+    font-weight: bold;
+    font-size: 24px;
+    display: flex;
+}
+
+.right {
+    font-size: 18px;
+    display: flex;
+    color: #e5e7eb;
+}
+
+ul {
+    text-decoration: none;
+    margin: 0px;
+    padding: 10px;
+    gap: 18px;
+    display: flex;
+    list-style-type: none;
+    
+}
